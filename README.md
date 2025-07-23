@@ -65,8 +65,32 @@
 
 等匿名登录完后，我们输入 "app_update 740 validate" 安装CSGO服务端
 
-
-
 <img width="1920" height="1080" alt="f0500aee-5735-4ab8-9910-593137255ea7" src="https://github.com/user-attachments/assets/3b574098-2fa5-4452-9188-272e39a4f73d" />
 
+安装完成后 我们输入 "quit" 退出SteamCmd
 
+<img width="1920" height="1080" alt="d578bfa35e44d403dc488b9a33165b99" src="https://github.com/user-attachments/assets/d6110dfe-f005-458c-9ec9-7471ead4a3fb" />
+
+然后输入 "cd /root/Steam/steamapps/common/Counter-Strike\ Global\ Offensive\ Beta\ -\ Dedicated\ Server/"
+
+<img width="1920" height="1080" alt="2c5e311b-9cba-46f3-9b3f-2858fe5e3368" src="https://github.com/user-attachments/assets/c9d68820-23c3-44b8-bb74-f362a305c8a8" />
+
+将插件包中的 "start.sh" 上传到当前目录
+
+<img width="1920" height="1080" alt="8bd366a2-a118-46b5-84fa-18c8d92e17a9" src="https://github.com/user-attachments/assets/2d9bb9d5-26f8-4d22-b17e-cb86e9a4e484" />
+
+使用FinalShell下方的文件管理，打开 "/csgo/cfg" 将 "server.cfg" 放置当前目录
+
+<img width="1920" height="1080" alt="63bd4f59-7691-4d89-b063-515ba9f471b8" src="https://github.com/user-attachments/assets/6debea09-ca1e-47c8-8f36-1fa3f588d962" />
+
+返回到 "/csgo" 将开服包里面的插件包解压,然后把里面的 "addone" 和 "cfg" 文件夹上传到当前目录
+
+<img width="1920" height="1080" alt="443f6653-0204-4791-ba6d-91b30fa2e32b" src="https://github.com/user-attachments/assets/10794475-bbbe-4c87-8689-1d29f666c655" />
+
+最后输入 "cd /root/Steam/steamapps/common/Counter-Strike\ Global\ Offensive\ Beta\ -\ Dedicated\ Server/" 后再执行 "start.sh" 就可以游玩了
+
+<img width="1920" height="1080" alt="9c9901ee-f511-43b3-a4ed-6bf6574bba66" src="https://github.com/user-attachments/assets/16ae810b-7c94-4282-8d04-877b49b3995d" />
+<img width="1920" height="1080" alt="d6c8487d-012d-4b1e-9439-b19fff3702e3" src="https://github.com/user-attachments/assets/dbd401ba-0782-48e3-a1a2-1d408ad12b0b" />
+<img width="1920" height="1080" alt="b8066075-ba30-4371-8473-4a8f86455da7" src="https://github.com/user-attachments/assets/e940a306-a06e-4901-af3a-8af11be6a8f8" />
+
+## 添加Admin/更改服务器密码/更改服务器名字 Windows那篇教程有
