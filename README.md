@@ -7,7 +7,7 @@
 由于Linux问题，开服包不包含Steamcmd,仅包含开服所用到的"插件包" "Server.cfg" "Start.sh"
 ## Tips:4
 开服包下载:
-我的个人网盘:http://download.imqfy.qpon/linux/linux_kaifu.zip
+我的个人网盘:http://download.imqfy.qpon/linux/Linux_kaifu.zip
 123盘:https://www.123684.com/s/UzIVVv-mNpY
 
 ## 配置需求
