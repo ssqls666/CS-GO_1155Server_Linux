@@ -94,3 +94,8 @@
 <img width="1920" height="1080" alt="b8066075-ba30-4371-8473-4a8f86455da7" src="https://github.com/user-attachments/assets/e940a306-a06e-4901-af3a-8af11be6a8f8" />
 
 ## 添加Admin/更改服务器密码/更改服务器名字 Windows那篇教程有
+
+## 结尾
+
+如果你觉得本期教程超级有用，那不妨施舍一点吧QwQ (bushi 
+<img width="1037" height="1037" alt="1" src="https://github.com/user-attachments/assets/5af16773-1426-4e8a-b642-81f0d12c272d" />
