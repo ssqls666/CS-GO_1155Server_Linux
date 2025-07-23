@@ -8,7 +8,7 @@
 ## Tips:4
 开服包下载:
 我的个人网盘:http://download.imqfy.qpon/linux/Linux_kaifu.zip
-123盘:https://www.123684.com/s/UzIVVv-mNpY
+123盘:https://www.123684.com/s/UzIVVv-BNpY
 
 ## 配置需求
 最低需求:1v核心2GB内存 40Gb可用空间 10Mbps网络带宽 Ipv4公网ip一个 UDP端口正常开放
