@@ -1,8 +1,11 @@
-## Tips
+## Tips:1
 这个版本适用于搭载"Debian 11.11 x64"系统使用
 如需Windows版请前往:https://github.com/ssqls666/CS-GO_1155Server
+## Tips:2
 如有技术支援需求，请添加我的QQ:3148912176 或发送Mail给我的邮箱:ssqls@foxmail.com
+## Tips:3
 由于Linux问题，开服包不包含Steamcmd,仅包含开服所用到的"插件包" "Server.cfg" "Start.sh"
+## Tips:4
 开服包下载:
 我的个人网盘:http://download.imqfy.qpon/linux/linux_kaifu.zip
 123盘:https://www.123684.com/s/UzIVVv-mNpY
